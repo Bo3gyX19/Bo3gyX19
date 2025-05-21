@@ -1,5 +1,4 @@
-## Hi there 👋
-# My name is Oleksandr, nice to see you here!
+## Hi there, my name is Oleksandr, glad to see you here 👋 
 
 **DevOps Team Lead | IT Professional | AWS Certified**  
 Odesa, Ukraine  
@@ -62,10 +61,6 @@ Head of IT (Odesa.LIVE), System Administrator (Tartus-Tour, Medcom-MP Ukraine)
 - Cisco CCNA
 
 ---
-
-## Languages
-
-English, Ukrainian, Russian
 
 <!--
 **Bo3gyX19/Bo3gyX19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
